@@ -209,6 +209,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap (>= 1.1.0)
+  bundler
   byebug
   capybara (>= 2.15)
   chromedriver-helper
@@ -221,7 +222,6 @@ DEPENDENCIES
   rails (~> 5.2.2)
   sass-rails (~> 5.0)
   selenium-webdriver
-  spring
   spring-watcher-listen (~> 2.0.0)
   sqlite3
   turbolinks (~> 5)
